@@ -15,7 +15,7 @@
     </style>
   </head>
   <body>
-    <h1>We will be back soon.</h1>
+    <h1>Casey's Awesome website.</h1>
     <h3>Under development.</h3>
   </body>
 </html>
